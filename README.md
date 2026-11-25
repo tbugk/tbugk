@@ -1,16 +1,16 @@
-## Hi there 👋
+# 你好，我是 tbugk 👋
 
-<!--
-**tbugk/tbugk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+17 岁福建高中生，正在用代码理解钱和世界。
 
-Here are some ideas to get you started:
+## 🌱 正在学习
+- Python 基础（手机先行，电脑在路上）
+- 用 HTML/JS 做小工具
+- 理财入门：复利、指数基金、交易成本
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 小作品
+- [复利模拟器](https://tbugk.github.io/playground/) —— 做给自己看的：每拖一年开始，少赚多少钱
+
+## 🎯  目标
+- 电脑回来后：系统学 Python + git
+- 把每次学习笔记都提交成绿格子
+- 写出一个自己真正天天用的工具
